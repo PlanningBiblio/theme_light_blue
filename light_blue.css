@@ -150,6 +150,16 @@ td.menu_td{
   font-size: 1.1em;
 }
 
+/** Font-Awesome **/
+
+.icones{
+  color: #009dd9;
+}
+
+.fa-pencil-square-o{
+  color: #d5edf3;
+}
+
 
 /*
  * bleu : #009dd9 / pâle : #ccecf8 / texte : #0f6fc6
